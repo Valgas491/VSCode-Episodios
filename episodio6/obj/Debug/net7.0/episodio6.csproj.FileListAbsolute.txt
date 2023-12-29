@@ -1,0 +1,14 @@
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\bin\Debug\net7.0\episodio6.exe
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\bin\Debug\net7.0\episodio6.deps.json
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\bin\Debug\net7.0\episodio6.runtimeconfig.json
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\bin\Debug\net7.0\episodio6.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\bin\Debug\net7.0\episodio6.pdb
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.AssemblyInfoInputs.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.AssemblyInfo.cs
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.csproj.CoreCompileInputs.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\refint\episodio6.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.pdb
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\episodio6.genruntimeconfig.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio6\obj\Debug\net7.0\ref\episodio6.dll

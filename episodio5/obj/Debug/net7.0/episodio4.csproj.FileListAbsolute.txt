@@ -1,0 +1,29 @@
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\bin\Debug\net7.0\episodio4.exe
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\bin\Debug\net7.0\episodio4.deps.json
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\bin\Debug\net7.0\episodio4.runtimeconfig.json
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\bin\Debug\net7.0\episodio4.dll
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\bin\Debug\net7.0\episodio4.pdb
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.dll
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\refint\episodio4.dll
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.pdb
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\episodio4.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\vscode\NoVerde2\episodio4\obj\Debug\net7.0\ref\episodio4.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.AssemblyInfoInputs.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.AssemblyInfo.cs
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.csproj.CoreCompileInputs.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\refint\episodio4.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.pdb
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\bin\Debug\net7.0\episodio4.exe
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\bin\Debug\net7.0\episodio4.deps.json
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\bin\Debug\net7.0\episodio4.runtimeconfig.json
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\bin\Debug\net7.0\episodio4.dll
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\bin\Debug\net7.0\episodio4.pdb
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\episodio4.genruntimeconfig.cache
+C:\Users\os d\Desktop\vscode\NoVerde2\episodio5\obj\Debug\net7.0\ref\episodio4.dll
